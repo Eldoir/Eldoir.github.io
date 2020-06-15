@@ -1,4 +1,3 @@
 theme: jekyll-theme-slate
 title: Indev
-tagline: Another dev blog
-description: see more at https://arthurcousseau.com
+description: see more at <a href="https://arthurcousseau.com">arthurcousseau.com</a>
